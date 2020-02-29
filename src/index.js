@@ -9,7 +9,7 @@ const Stage = ()=> <Redirect to='/stage'></Redirect>;
 ReactDOM.render(
     <BrowserRouter>
         <Switch>
-            <Route exact path="/" component={Stage} />
-            <Route exact path="/:choice" component={App} />
+            <Route exact path={process.env.PUBLIC_URL + '/'}component={Stage} />
+            <Route exact path={process.env.PUBLIC_URL + '/:choice'} component={App} />
         </Switch>
     </BrowserRouter>, document.getElementById('root'));

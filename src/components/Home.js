@@ -3,7 +3,7 @@ import ReactHtmlParser from 'react-html-parser';
 
 export class Home extends React.Component {
   constructor(props) {
-    super(props);
+    super();
   }
   
   render() {
