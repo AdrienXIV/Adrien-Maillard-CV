@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 import App from './App'
 import './css/style.css';
 
-const Stage = ()=> <Redirect to='/stage'></Redirect>;
+const Stage = ()=> <Redirect to={process.env.PUBLIC_URL + '/stage'}></Redirect>;
 
 ReactDOM.render(
     <BrowserRouter basename={process.env.PUBLIC_URL}>
