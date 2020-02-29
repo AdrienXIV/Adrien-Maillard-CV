@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "homepage": "http://AdrienXIV.github.io/Adrien-Maillard-CV",
+  "name": "adrienmaillard-cv",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
@@ -17,6 +18,8 @@
     "semantic-ui-react": "^0.88.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
