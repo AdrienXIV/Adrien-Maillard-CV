@@ -7,9 +7,9 @@ import './css/style.css';
 const Stage = ()=> <Redirect to='/stage'></Redirect>;
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
-            <Route exact path={process.env.PUBLIC_URL + '/'}component={Stage} />
+            <Route exact path={process.env.PUBLIC_URL + '/'} component={Stage} />
             <Route exact path={process.env.PUBLIC_URL + '/:choice'} component={App} />
         </Switch>
     </BrowserRouter>, document.getElementById('root'));
