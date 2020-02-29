@@ -4,12 +4,12 @@ import { HashRouter, Route, Switch, Redirect } from 'react-router-dom';
 import App from './App'
 import './css/style.css';
 
-const Stage = ()=> <Redirect to={process.env.PUBLIC_URL + '/stage'}></Redirect>;
+const Stage = ()=> <Redirect to={'/stage'}></Redirect>;
 
 ReactDOM.render(
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename="/">
         <Switch>
-            <Route exact path={process.env.PUBLIC_URL + '/'} component={Stage} />
-            <Route exact path={process.env.PUBLIC_URL + '/:choice'} component={App} />
+            <Route exact path={'/'} component={Stage} />
+            <Route exact path={'/:choice'} component={App} />
         </Switch>
     </HashRouter>, document.getElementById('root'));
