@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36cb9db6da0a01a683f9f7f8403a47b9",
+    "revision": "d966dc7d43c6842d8b16793ad617dcaa",
     "url": "/Adrien-Maillard-CV/index.html"
   },
   {
-    "revision": "1719cf16a22d7475dd79",
+    "revision": "2d88c5025c738f796199",
     "url": "/Adrien-Maillard-CV/static/css/main.929ec351.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Adrien-Maillard-CV/static/js/2.c76d0bca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1719cf16a22d7475dd79",
-    "url": "/Adrien-Maillard-CV/static/js/main.ac577958.chunk.js"
+    "revision": "2d88c5025c738f796199",
+    "url": "/Adrien-Maillard-CV/static/js/main.337e18ae.chunk.js"
   },
   {
     "revision": "a813698676303a3c56fc",
