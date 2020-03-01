@@ -7,7 +7,7 @@ export class Skill extends React.Component {
             <div className="ui four column grid">
                 <div className="column">
                     <div className="ui segment">
-                        <h2 className="ui header" style={{textAlign:'center'}}>Langages</h2>
+                        <h2 className="ui header" style={{ textAlign: 'center' }}>Langages</h2>
                         <Divider />
                         <Image.Group size='small'>
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"} />
@@ -25,7 +25,7 @@ export class Skill extends React.Component {
                 </div>
                 <div className="column">
                     <div className="ui segment">
-                        <h2 className="ui header" style={{textAlign:'center'}}>Frameworks - Librairies</h2>
+                        <h2 className="ui header" style={{ textAlign: 'center' }}>Frameworks - Librairies</h2>
                         <Divider />
                         <Image.Group size='small'>
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"} />
@@ -46,7 +46,7 @@ export class Skill extends React.Component {
                 </div>
                 <div className="column">
                     <div className="ui segment">
-                        <h2 className="ui header" style={{textAlign:'center'}}>Base de données</h2>
+                        <h2 className="ui header" style={{ textAlign: 'center' }}>Base de données</h2>
                         <Divider />
                         <Image.Group size='small'>
                             <Image src={"https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1024px-MongoDB-Logo.svg.png"} />
@@ -56,9 +56,11 @@ export class Skill extends React.Component {
                 </div>
                 <div className="column">
                     <div className="ui segment">
-                        <h2 className="ui header" style={{textAlign:'center'}}>Environnements</h2>
+                        <h2 className="ui header" style={{ textAlign: 'center' }}>Environnements</h2>
                         <Divider />
                         <Image.Group size='small'>
+                            <Image src={"https://user.oc-static.com/upload/2019/06/13/15604452395031_15586239271382_gitlab-ci-cd-logo_2x.png"} />
+                            <Image src={"https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/1200px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png"} />
                             <Image src={"https://www.stickpng.com/assets/images/58480e82cef1014c0b5e4927.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png"} />
