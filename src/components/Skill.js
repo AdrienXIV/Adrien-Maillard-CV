@@ -29,7 +29,7 @@ export class Skill extends React.Component {
                         <Divider />
                         <Image.Group size='small'>
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"} />
-                            <Image src={"https://i.dlpng.com/static/png/371425_preview.png"} />
+                            <Image src={"https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png"} />
                             <Image src={"https://www.accesscodeschool.fr/wp-content/uploads/2019/01/463px-Gulp.js_Logo.svg_.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"} />
                             <Image src={"https://www.hello-pomelo.com/wp-content/uploads/2019/07/expressjs.png"} />
