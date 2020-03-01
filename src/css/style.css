@@ -160,6 +160,6 @@ img {
         width: 100% !important;
     }
     .ui.vertical.divider{
-        display: none;
+        display: none !important;
     }
 }
