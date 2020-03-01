@@ -7,7 +7,7 @@ export class Skill extends React.Component {
             <div className="ui four column grid">
                 <div className="column">
                     <div className="ui segment">
-                        <h2 className="ui header" style={{textAlign:'center'}}>Languages</h2>
+                        <h2 className="ui header" style={{textAlign:'center'}}>Langages</h2>
                         <Divider />
                         <Image.Group size='small'>
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"} />
