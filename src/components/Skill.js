@@ -16,7 +16,9 @@ export class Skill extends React.Component {
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/640px-C_Sharp_logo.png"} />
                             <Image src={"https://mit2online.com/school/pluginfile.php/133/course/overviewfiles/c-programming.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"} />
-                            <Image src={"https://lh3.googleusercontenthttps://byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png"} />
+                            <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"} />
+                            <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"} />
+                            <Image src={"https://achievement-images.teamtreehouse.com/badges_css_advancedsass_stage01.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"} />
                         </Image.Group>
                     </div>
@@ -28,10 +30,12 @@ export class Skill extends React.Component {
                         <Image.Group size='small'>
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"} />
                             <Image src={"https://i.dlpng.com/static/png/371425_preview.png"} />
+                            <Image src={"https://www.accesscodeschool.fr/wp-content/uploads/2019/01/463px-Gulp.js_Logo.svg_.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"} />
                             <Image src={"https://www.hello-pomelo.com/wp-content/uploads/2019/07/expressjs.png"} />
                             <Image src={"https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png"} />
                             <Image src={"https://symfony.com/logos/symfony_black_03.png"} />
+                            <Image src={"https://s.w.org/style/images/about/WordPress-logotype-simplified.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"} />
                             <Image src={"https://www.stickpng.com/assets/images/58482f0ecef1014c0b5e4a7a.png"} />
                             <Image src={"https://bitsrc.imgix.net/11b8acfbc5f7a64c0ecec1e2a8d4b4866eaf4431.png"} />
