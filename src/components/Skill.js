@@ -16,7 +16,7 @@ export class Skill extends React.Component {
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/640px-C_Sharp_logo.png"} />
                             <Image src={"https://mit2online.com/school/pluginfile.php/133/course/overviewfiles/c-programming.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"} />
-                            <Image src={"https://lh3.googleusercontent.com/proxy/d2MSn_mbBIVA3gIJmnReJa0Hp9RlMrMPES4WU7obtvqFcjjVRdfieuIgmHk56bXGG8zIkBYDIRX9BRF-XHAvAE9QJJTCTWhUptCpANeZSO7SmJq4nXKc9hJu6X1N0T_e5Q"} />
+                            <Image src={"https://lh3.googleusercontenthttps://byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png"} />
                             <Image src={"https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"} />
                         </Image.Group>
                     </div>
