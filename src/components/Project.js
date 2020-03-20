@@ -4,6 +4,22 @@ export class Project extends React.Component {
   render() {
     return (
       <div className="ui three column grid" id="projects">
+       <div className="column">
+          <div className="ui segment">
+            <h2 className="ui header">
+              Application Web Progressive (PWA) utilisant l'API de Twitter
+              <div className="sub header">Récupérer des données de Twitter pour les afficher sur la PWA.</div>
+            </h2>
+            <ol class="ui list">
+              <li value="-">API RESTful NodeJS</li>
+              <li value="-">React</li>
+              <li value="-">MongoDB</li>
+              <li value="-">Socket.io</li>
+              <li value="-">CI/CD : déploiement de l'API sur Heroku</li>
+              <li value="-"><a href="https://gitlab.com/AdrienXIV/twitter-api" rel="noopener noreferrer" target="_blank"><i className="gitlab icon"></i>https://gitlab.com/AdrienXIV/twitter-api</a></li>
+            </ol>
+          </div>
+        </div>
         <div className="column">
           <div className="ui segment">
             <h2 className="ui header">
