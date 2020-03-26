@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Adrien-Maillard-CV/precache-manifest.41a5714df7c5fac8eed60766b6a6ed35.js"
+  "/Adrien-Maillard-CV/precache-manifest.56b663d62d3ee5c6645ea71695ec7bd9.js"
 );
 
 self.addEventListener('message', (event) => {
