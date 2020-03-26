@@ -28,7 +28,7 @@ class App extends Component {
     switch (this.state.url) {
       case 'stage':
         this.setState({
-          research: "Recherche stage alterné (3 semaines entreprise / 1 semaine école) <u>Développeur Web & Mobile</u> à partir de juin jusqu'au 25 septembre 2020 pour compléter ma 3e année à la Normandie Web School.<br><br>  <a href='./pdf/Calendrier Année 3 Chef de projet Digital 2019-1.pdf' target='_blank'>Calendrier</a>"
+          research: "Recherche stage alterné (3 semaines entreprise / 1 semaine école) <u>Développeur Web & Mobile</u> à partir d'avril jusqu'au 25 septembre 2020 pour compléter ma 3e année à la Normandie Web School.<br><br>  <a href='./pdf/Calendrier Année 3 Chef de projet Digital 2019-1.pdf' target='_blank'>Calendrier</a>"
         });
         break;
       case 'alternance':
